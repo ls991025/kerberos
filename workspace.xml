@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c94a9f4f-85e9-4bd1-9df2-8eac930a6303" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bkw4jcuCS7DBdZmtNY1AWzr0fy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.ASserver">
+    <configuration name="ASserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AS.ASserver" />
+      <module name="Kerberos-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C.Client" />
+      <module name="Kerberos-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TGSserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TGS.TGSserver" />
+      <module name="Kerberos-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TGS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vserver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="V.Vserver" />
+      <module name="Kerberos-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="V.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AS.sql" />
+      <module name="Kerberos-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ASserver" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Vserver" />
+        <item itemvalue="Application.TGSserver" />
+        <item itemvalue="Application.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c94a9f4f-85e9-4bd1-9df2-8eac930a6303" name="Default Changelist" comment="" />
+      <created>1589189209463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589189209463</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1599890543937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1599890543937" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599633224231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599633224231" />
+    <state x="522" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599530754067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1599530754067" />
+    <state x="599" y="123" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1599362668896">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="123" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1599362668896" />
+    <state x="544" y="305" width="448" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599620105384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="305" width="448" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1599620105384" />
+    <state x="445" y="153" key="FileChooserDialogImpl" timestamp="1599470218716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599470218716" />
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1599891375359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599891375359" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1599891375359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599891375359" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1599891375359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599891375359" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1599891375359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599891375359" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599622616847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599622616847" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599622616847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599622616847" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599622616847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599622616847" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599622616847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599622616847" />
+    <state x="270" y="105" width="996" height="711" key="SettingsEditor" timestamp="1599968602101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="105" width="996" height="711" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599968602101" />
+    <state x="468" y="10" width="600" height="804" key="find.popup" timestamp="1599367881364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="10" width="600" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1599367881364" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kerberos_master$Client.ic" NAME="Client Coverage Results" MODIFIED="1599565998761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>C.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Kerberos_master$ASserver.ic" NAME="ASserver Coverage Results" MODIFIED="1599575083702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>AS.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Kerberos_master$Vserver.ic" NAME="Vserver Coverage Results" MODIFIED="1599566061327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>V.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Kerberos_master1$Client.ic" NAME="Client Coverage Results" MODIFIED="1599700332206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>C.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Kerberos_master1$ASserver.ic" NAME="ASserver Coverage Results" MODIFIED="1599891346210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>AS.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Kerberos_master$TGSserver.ic" NAME="TGSserver Coverage Results" MODIFIED="1599566024685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>TGS.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Kerberos_master$sql.ic" NAME="sql Coverage Results" MODIFIED="1599362768853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>AS.*</FILTER>
+    </SUITE>
+  </component>
+</project>
