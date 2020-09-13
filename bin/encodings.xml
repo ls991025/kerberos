@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/AS/ASpackage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/AS/ASrunnable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/AS/ASserver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/AS/ASui.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/AS/DataPacket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/AS/Hash.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/AS/clientLogIn.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/AS/linksql.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/C/Authenticator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/C/C_GetInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/C/C_Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/C/C_Search.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/C/C_juzhen.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/C/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/C/Cpackage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/C/DataPacket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/C/Hash.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/C/Util.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DES/C.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DES/Constant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DES/Des.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DES/DesKey.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DES/Feistel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DES/Key.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DES/M.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DES/Message.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DES/UseDES.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/RSA/GCD.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/RSA/UseRSA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TGS/DataPacket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TGS/TGSpackage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TGS/TGSrunnable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TGS/TGSserver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TGS/TGSui.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TGS/Ticket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TGS/VLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TGS/linksql.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/V/DataPacket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/V/Ticket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/V/Vrunnable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/V/Vserver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/V/Vui.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/资源文件/单词" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/资源文件/李白" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/资源文件/胡歌" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/资源文件/鲁迅" charset="GBK" />
+  </component>
+</project>
